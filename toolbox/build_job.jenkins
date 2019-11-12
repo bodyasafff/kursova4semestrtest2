@@ -34,7 +34,7 @@ pipeline  {
             steps {
                 echo " ============== pushing image =================="
                 sh '''
-                docker push bodyasafff/testkursova4semestr:latest
+                docker push bodyasafff/da:latest
                 '''
 
             }
