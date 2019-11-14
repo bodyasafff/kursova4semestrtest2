@@ -1,2 +1,2 @@
 [staging]
-stage  ansible_host=52.232.126.232 ansible_user=bodyasafff ansible_password=Babka228
+stage  ansible_host=52.232.126.232 ansible_user=root ansible_password=Babka228
